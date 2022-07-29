@@ -81,8 +81,8 @@ padding: 0px 10px 0px 10px
 
 nav {
     padding: 14px 0px 14px 0px;
-    display: flex;
-    justify-content: center;
+    display: flex; 
+    justify-content: center; 
 } 
 
 section nav#links > a{
